@@ -18,10 +18,11 @@ Cursando: Análise e Desenvolvimento de Sistema - UDF
   ##
  
 <div> 
+  
   <a href = "milto:vinhaladrian@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adrian-vinhal-de-magalh%C3%A3es-a9a177411" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
