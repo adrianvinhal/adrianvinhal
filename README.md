@@ -9,16 +9,16 @@ Cursando: Análise e Desenvolvimento de Sistema - UDF
 </div>
 
 <div>
-  <a  href="https://github.com/adrianvinhal" >
-  <img height>
+  <a href="https://github.com/adrianvinhal">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adrianvinhal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianvinhal&layout=compact&langs_count=16&theme=dracula" alt="Top Languages" />
+  </a>
 </div>
 
 <div style="display: inline_block"><br>
-
   <img align="center" alt="Adrian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Adrian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Adrian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   
 </div>
   
   ##
